@@ -21,20 +21,20 @@
 
 Genetic Algorithm (GA) 
 
-![GA](README copy.assets/GA.png)
+![GA](README.assets/GA.png)
 
 #### Data Visualization:
 
 ##### Heat map of data
 
-![heatmap](README copy.assets/heatmap.png)
+![heatmap](README.assets/heatmap.png)
 
-##### AUROC of models
+AUROC of models
 
-![auroc](README copy.assets/auroc.png)
+![auroc](README.assets/auroc.png)
 
 
 
 ##### Feature value of XGBoost 
 
-![xgbcls-feature-value](README copy.assets/xgbcls-feature-value.png)
+![xgbcls-feature-value](README.assets/xgbcls-feature-value.png)
